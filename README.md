@@ -10,6 +10,7 @@ This is a simple Python script that uses EasyOCR to extract text from a PDF file
 
 # Installation
 pip install easyocr
+
 Place pdf2txt.py wherever you want it
 
 # Usage
