@@ -2,9 +2,7 @@
 PDF to text using EasyOCR
 by Jonathan Germain
 with thanks to
-EasyOCR (https://github.com/JaidedAI/EasyOCR)
-pdf2jpg (https://github.com/pankajr141/pdf2jpg)
-Johannes Fischer (www.queroestudaralemao.com.br)
+EasyOCR (https://github.com/JaidedAI/EasyOCR), pdf2jpg (https://github.com/pankajr141/pdf2jpg), and https://github.com/hansalemaos/PDFImage2TXT
 
 This is a simple Python script that uses EasyOCR to extract text from a PDF file. 
 
