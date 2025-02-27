@@ -66,7 +66,6 @@ for jpg_name in sorted_imagefile_list:
     page_result = ''
 
     result = reader.readtext(jpg_name, x_ths = 1000, paragraph = True)
-    print (f"jpg_name: {jpg_name}")
     for (bboxes, text) in result:
         print (f"{text}")
         page_result = page_result + text + "\n"
