@@ -17,6 +17,6 @@ This software works offline, however it will download any required EasyOCR model
 
 The output can be piped to other software like any other text output in Linux.
 
-# Paid Work
+# Custom apps available
 
 Need an AI-focused business solution? Contact the author via the [Compilebunny github page](https://github.com/compilebunny)
